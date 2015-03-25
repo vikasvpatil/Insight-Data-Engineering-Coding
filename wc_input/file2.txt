@@ -1,0 +1,13 @@
+Our team focused on the traits of each post to determine what contributes to its success in creating interactions within its audience and beyond.
+
+On Facebook categorizing each post into its type of post (status, photo etc...), day of week it was posted, and time of day it was posted creates an environment that helps in analyzing when the optimal time to post on Facebook is. The Grammys are a once a year event with a small event to announce nominees and if they can optimize their social media calendar for these events it will be of great benefit. 
+
+To do this we focused on how many interactions each post received relative to how many times that type of post was used. Example: A photo update on a Sunday afternoon was used two percent of the time and garnered two percent of the total shares. We created an effectiveness metric that would be percent of posts divided by percent of shares.
+
+The business logic in this analysis is to check if the Grammys did a good job in driving presence in social media with their posts. Finally, develop strategies for the Grammys team to understand when is the right time to post on Social Media channels. An example would be if Monday morning link posts work well but Monday morning status updates do not. Hence, the Grammys could optimize their social media content for greater interactions.
+
+Key Metric Results:
+
+Focusing on the traits of a post, this analysis goes into how the post reaches with individuals that already like the Grammys Facebook page and how it reached those beyond that point. Using the data of a posts total impressions and dividing it by impression to people who have liked the page, we get a metric of what percent of the impression hit people beyond those that have liked the page. We called this metric Outside Effectiveness.
+
+The below analysis shows the posts with the top effectiveness broken up by each type of post. The top performer was a Photo Post on a Tuesday early morning with a twenty five percent effectiveness. These posts reached two million people that like the page but also reached fourteen million people total which is a little more than seven times how many page followers that saw it. This was a fantastic reaction to those posts in that time period. Second place came in at an effectiveness of fifty percent for Sunday afternoon Status Posts.
